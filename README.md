@@ -1,0 +1,2 @@
+# Minimarket
+Desktop app
