@@ -2,9 +2,10 @@
 Desktop app made in Java and database in MySQL
 
 - Topic 
-  - Restaurant
+  - Minimarket
 
 - Configuration
+  - User and Password to login : `root` 
   - Key to enter the app like admin : `KR-9E0-AWX`
   - Program : Eclipse IDE
   - Architecture : MVC
