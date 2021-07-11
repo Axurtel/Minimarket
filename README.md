@@ -5,6 +5,7 @@ Desktop app made in Java and database in MySQL
   - Restaurant
 
 - Configuration
+  - Key to enter the app like admin : `KR-9E0-AWX`
   - Program : Eclipse IDE
   - Architecture : MVC
   - Data Manager : MySQL
